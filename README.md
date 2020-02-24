@@ -1,13 +1,10 @@
 # Factory line manager
 
-[![Build Status][build-badge]][build]
+[![Build Status](https://travis-ci.org/splaa/react-heroku.svg?branch=master)](https://travis-ci.org/splaa/react-heroku)
 [![Coveralls][coveralls-badge]][coveralls]
 [![BCH compliance](https://bettercodehub.com/edge/badge/splaa/react-heroku?branch=master)](https://bettercodehub.com/)
 
 Awesome factory line manager!
-
-[build-badge]: https://travis-ci.com/splaa/react-heroku.svg?branch=master
-[build]: https://travis-ci.org/github/splaa/react-heroku
 
 [coveralls-badge]: https://img.shields.io/coveralls/splaa/react-heroku/master.png?style=flat-square
 [coveralls]: https://coveralls.io/github/splaa/react-heroku
