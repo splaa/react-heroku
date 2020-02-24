@@ -7,3 +7,8 @@ node_js:
 branches:
   only:
     - master
+deploy:
+  provider: heroku
+  app: "rt-splx"
+  api_key:
+    secure: "71414a27-a3e4-4750-856d-b3f37826a7af"
