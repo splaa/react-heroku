@@ -12,3 +12,6 @@ deploy:
   app: "rt-splx"
   api_key:
     secure: "71414a27-a3e4-4750-856d-b3f37826a7af"
+after_success:
+  - cat ./coverage/lcov.info | ./node_modules/codecov.io/bin/codecov.io.js
+  - cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js

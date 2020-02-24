@@ -1,3 +1,16 @@
+# Factory line manager
+[![Travis][build-badge]][build]
+[![Coveralls][coveralls-badge]][coveralls]
+
+Awesome factory line manager!
+
+[build-badge]: https://img.shields.io/travis/splaa/react-heroku/master.png?style=flat-square
+[build]: https://travis-ci.org/splaa/react-heroku
+
+[coveralls-badge]: https://img.shields.io/coveralls/splaa/react-heroku/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/splaa/react-heroku
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
